@@ -1,0 +1,67 @@
+body{
+background-color:#FF00FF;
+font-family:vandhana;
+font-size:22px;
+}
+.menubar{
+	background-color:yellow;
+	box-shadow:2px 6px 18px;
+}
+.navbar: hover{
+	background-color:#E0FFFF;
+	box-shadow:2px 6px 18px;
+}
+.sidenav1{
+	background-color:tomato;
+}
+.sidenav1 h4{
+	color:white;
+}
+.sidenav1 p{
+	color:yellow;
+}
+.sideimg h3{
+	color:green;
+	text-shadow:2px 4px 15px white;
+}
+.sideimg h4{
+	color:yellow;
+	text-shadow:2px 4px 15px white;
+}
+.sidenav2{
+	background-color:orange;
+}
+.sidenav2 h4{
+	color:white;
+}
+.sidenav2 p{
+	color:yellow;
+}
+
+.mainnav{
+	background-color:#FFC0CB;
+}
+footer{
+	background-color:#E0FFFF;
+	margin:10px;
+	padding:30px;
+	font-size:24px;
+	letter-spacing:5px;
+	color:red;
+	padding-top:40px;
+}
+.carouseltext h1{
+	color:#00008B; #32CD32
+}
+.carouseltext h2{
+	color:#32CD32;
+}
+.mainnav h1{
+	color:#fff;
+}
+.carousel-caption p{
+	color:gold;
+}
+.mainnav p{
+	color:yellow;
+}
